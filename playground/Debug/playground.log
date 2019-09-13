@@ -1,0 +1,16 @@
+﻿  playground.cpp
+C:\Users\Josiah\OneDrive\cpp\include\glm\vec_util.h(10,28): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(14,1): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(41,1): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(68,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(69,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(77,8): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(77,8): warning C4244:         with
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(77,8): warning C4244:         [
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(77,8): warning C4244:             T=float
+C:\Users\Josiah\source\repos\playground\playground\macbeth.h(77,8): warning C4244:         ]
+C:\Users\Josiah\source\repos\playground\playground\playground.cpp(44,20): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\playground.cpp(163,12): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\playground.cpp(205,12): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josiah\source\repos\playground\playground\playground.cpp(574,20): warning C4305:  '=': truncation from 'double' to 'float'
+  playground.vcxproj -> C:\Users\Josiah\source\repos\playground\Debug\playground.exe
